@@ -14,7 +14,8 @@ This assignment  creates 3 `ProfitSplitter` contracts. These contracts will do s
 
 * Distribute company shares for employees in a "deferred equity incentive plan" automatically.
 
-Below describes each contract and how to run it
+Below describes each contract and how to run then.
+
 ## Prerequisities
 Ensure you have the following:
 1. Ganache running and a ethereum network running. [Ganache Software](https://www.trufflesuite.com/ganache)
@@ -32,18 +33,7 @@ Contracts files are to be uploaded to remix from [Contracts](./contracts). The c
 
 * [`DeferredEquityPlan.sol`](contracts/DeferredEquityPlan.sol) — Level 3 starter code.
 
- To execute these:
- 1. Open the contract in remix ide:
- 2. Compile the contract:
-    * Enter the three public addresses of the each of the three employees in the deploy fields 
-    * Click on transact 
-    * Approve Metamask transaction
-   
- 3. Enter the amount you want to send in the value field 
- 4. Click the red deposit button
- 5. Approve the transaction and validate in Metamas.
- 6. Review the balances in Ganache 
- 7. Validate the transaction in Ganache
+
 
 ## Pay your associate-level employees quickly and easily
 
@@ -215,7 +205,6 @@ Contract Deployed
 
 ---
 
----
 
 Test Contract
 
