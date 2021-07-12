@@ -18,7 +18,7 @@ Below describes each contract and how to run it
 ## Prerequisities
 Ensure you have the following:
 1. Ganache running and a ethereum network running. [Ganache Software](https://www.trufflesuite.com/ganache)
-2. Metamask wallet connected to the network (Testnet or Local depending on where you want to connect )[Metamask Wallet](https://metamask.io/)
+2. Metamask wallet connected to the network (Testnet or Local depending on where you want to deploy) [Metamask Wallet](https://metamask.io/)
 3. Sufficient funds in your account to cover the amount you want to send as well as the Gas fees.
 4. [Remix IDE](http://remix.ethereum.org/) 
 5. Connection to a testnet if you want to deploy on a public testnet
@@ -271,6 +271,6 @@ Transaction Confirmation
 
 Public Blockchain Details Confirmation
 
-![EtherScan](./images/etherscan.png)
+![EtherScan](./images/etherScan.png)
 
 ---
